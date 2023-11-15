@@ -1,0 +1,8 @@
+﻿ID CLIENTE;CLIENTE;N° TESSERA;DATA NASCITA;INDIRIZZO;TEL.;MAIL;SCADENZA  TESSERA;DURATA NOLEGGIO;RESIDUO NOLEGGIO
+C001;Luca Neri;A00123;23/06/1998;Via…;111…;alfa@...;09/01/2024;10 giorni;3 giorni
+C002;Marco Verdi;A00124;04/02/1987;Viale…;222…;beta@...;31/12/2024;6 giorni;2 giorni
+C003;Mario Rossi;A00125;26/11/1988;P.zza…;333…;sei@...;04/09/2024;2 ore;30 min.
+C004;Giovanni Mucciaccia;A00126;04/09/1978;Vicolo…;444…;delta@...;22/12/2023;1 ora;15 min.
+C005;Luana Bianchi;A00127;30/01/2000;Via…;555…;def@...;04/05/2024;15 giorni;6 giorni
+C006;Michela Colnago;A00128;09/09/1993;Via…;666…;alt@...;03/09/2024;6 giorni;SCADUTO
+C007;Roberta Pinarello;A00129;21/11/1990;Viale…;777…;sette@...;26/11/2023;3 giorni;1 giorno
